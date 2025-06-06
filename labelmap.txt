@@ -1,0 +1,8 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+victim:128,0,0::
+unwanted touching:0,128,0::
+perpetrator:128,128,0::
+sexual violence:0,0,128::
+sexual abuse:128,0,128::
+sexual harassment:0,128,128::
